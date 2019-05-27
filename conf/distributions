@@ -1,0 +1,8 @@
+Codename: stretch
+Suite: stable
+Components: main
+UDebComponents: main
+Architectures: armhf source
+Description: Apt repository for voicen
+SignWith: AB3486B6
+
