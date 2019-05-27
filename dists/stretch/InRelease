@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Suite: stable
+Codename: stretch
+Date: Mon, 27 May 2019 08:40:54 UTC
+Architectures: armhf
+Components: main
+Description: Apt repository for voicen
+MD5Sum:
+ 266fb5d548db98f07453020fd91d1f3a 1953 main/binary-armhf/Packages
+ 43776877e5db5290dc4f9a56f9005b84 763 main/binary-armhf/Packages.gz
+ ead9e7c480ffd849f6ed35d536d0889b 91 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/debian-installer/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/debian-installer/binary-armhf/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 09103eaaf10251c40018165b6ccf9e43 92 main/source/Release
+SHA1:
+ 558922ec162dfd989b663056561c43638fd82cad 1953 main/binary-armhf/Packages
+ 28727d3ea7bc5f074bd94b21520d03504edcb26f 763 main/binary-armhf/Packages.gz
+ 3d957cb16a7fb986a80e0a2f771304382f33bb4c 91 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/debian-installer/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/debian-installer/binary-armhf/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 9842bac1b2e19f473921b376ce20964d6f5d2195 92 main/source/Release
+SHA256:
+ 0d593fe773730e8bfef61c08ad62871543fa4663ae2c20fc06f11af294a9d413 1953 main/binary-armhf/Packages
+ 0c0ed8ab57af89a16fa882f3bf06bd2654236bf29b0783003b7c71993cbb24d1 763 main/binary-armhf/Packages.gz
+ 5cb3c308cdc7e1f7e1728baaf24795ed356e14f9ad25c95ab71b31870b90b10c 91 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/debian-installer/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-armhf/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 390becbd77a5bce00a7784c73b5a2bc76f83f198a65c05dd915344a609f39c0a 92 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJc66KjAAoJEHZ5LSmrNIa2Uz8QALzYNxLXdA2Pg8HBUhO/Gdiz
+IEkvMyrxyF5cRsklxyZAd/NESDGRvJGPH0sJOfw6eIzJfceb6EqgWpZL+PLIQhR4
+xnreQEkTZXBUDDAJr3f3zHgSZ4gb31YbsvoWR/p7rYDcjtbsb4uqFpzPlBZtlYbP
+vzv4qEfqfQUaBd/sOFlU+vX35kR6yMByaKAoZQo69wcGxxc3jlWnIlQ+GzMa0dAY
+gfJjiv6Gt2+txTPzEYy0JQGRulVftGZepAD1GH1WwIqQcgdxP3akogt9RoTBe7JN
+t75XCPnSkMqlj5tkUSK8L1vI5NiDXQhlYH81JJzOe/xS9BDt+JYK+nRNPIjO/dJa
+T/Cgx58FR9SANSGSMMoNbUu6Iw8mMTIHZH0cp/JEn6JTl92//89gqvXScS9xNA6t
+2yRSrPIY7Ac1YjY2EmPyXnimvOSHum7cuA2K6qQkE4nYRAnApsc7svrERo9pC70W
+AS+JlNKS/jdoV5sX9oxD8uDp/YpAeIxpE7zaxjNomwzKKFfxHRollKb7lYvZBz3h
+4bdvlMcF9S2nWG18VHWV0iCWrB6vmU1Fs8syd3WmA8kqLFqGdqFexgcs8Dud9UaW
+yvGtOtIHTw6tCsthEGkZwACy1h/r/3pDompA+26M5tjTPsVyZd4CtbSdv64B/8U4
+X9iheHnWtVIXkhdbWPp/
+=XvsQ
+-----END PGP SIGNATURE-----

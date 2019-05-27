@@ -1,0 +1,54 @@
+Package: linux-dtb-next-sunxi
+Source: linux-4.19.25-sunxi
+Version: 5.78
+Architecture: armhf
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 4224
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-4.19.25-sunxi/linux-dtb-next-sunxi_5.78_armhf.deb
+Size: 173988
+SHA256: e82507218026e6dba1b3ac75122bf4ab47719e5e41f6468728c4b3f3029bc598
+SHA1: 62f470685c32a45fd428d4686e002915e41ea5ce
+MD5sum: c0248797005abde4d835d4df8bb78131
+Description: Linux DTB, version 4.19.25-sunxi
+ This package contains device blobs from the Linux kernel, version 4.19.25-sunxi
+
+Package: linux-headers-next-sunxi
+Source: linux-4.19.25-sunxi
+Version: 5.78
+Architecture: armhf
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 70998
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-4.19.25-sunxi/linux-headers-next-sunxi_5.78_armhf.deb
+Size: 10591268
+SHA256: 7fa236178dc7c7c0b50892d234b24ab281e8b9b9078dc8b33aae121f1d94f6ec
+SHA1: f761adf59b09f957525e5f0c08aab1d83af63b8e
+MD5sum: 6450098237859fc1e3a39df85655c525
+Description: Linux kernel headers for 4.19.25-sunxi on armhf
+ This package provides kernel header files for 4.19.25-sunxi on armhf
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-next-sunxi
+Source: linux-4.19.25-sunxi
+Version: 5.78
+Architecture: armhf
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 64078
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-4.19.25-sunxi/linux-image-next-sunxi_5.78_armhf.deb
+Size: 20519268
+SHA256: ab1b473940a1143477884529cbdc693c141f0cdf9ffce38acf948508bfa6cca9
+SHA1: 45f32584321038558d924226225363cd8b3fef14
+MD5sum: 3ffda7aff4b2b054a724cca262b92cf6
+Description: Linux kernel, version 4.19.25-sunxi
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.19.25-sunxi.
+
